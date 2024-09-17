@@ -1,0 +1,13 @@
+.container{
+    height: 100hv;
+    display: grid;
+    gap:3rem;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    grid-template-rows: 1fr ;
+    width: 100hv;
+    background-color: blanchedalmond;
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}

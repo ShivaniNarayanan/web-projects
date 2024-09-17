@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: aquamarine;
+}
+
+.titlebar{
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.container div{
+    width: 200px;
+    color: midnightblue;
+    margin: 10px;
+    flex-basis: 20%;
+    flex-grow: 1;
+}
+
+

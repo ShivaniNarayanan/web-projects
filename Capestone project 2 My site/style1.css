@@ -1,0 +1,31 @@
+.top-container{
+    position: relative;
+    text-align: center;
+    color: blueviolet;
+}
+.title-text{
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    font-size: 50px;
+}
+.quote{
+    position: absolute;
+    top: 35%;
+    left: 7%;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 40%;
+}
+.sedan-regular {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .sedan-regular-italic {
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
